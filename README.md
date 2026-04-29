@@ -6,9 +6,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheEgoist1253&color=blueviolet" alt="Profile views" />
@@ -105,8 +103,8 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/fernando-sanchez-56606b304/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sanchezfernandowalter@gmail.com)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Sanchez-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/fernando-sanchez-56606b304/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-sanchezfernandowalter@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sanchezfernandowalter@gmail.com)&nbsp;
 
 
 </div>
